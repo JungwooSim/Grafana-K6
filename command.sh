@@ -1,0 +1,1 @@
+ k6 run http_get.js
